@@ -2,3 +2,4 @@ google-genai
 
 pdf2image  
 PyPDF2  
+dotenv
